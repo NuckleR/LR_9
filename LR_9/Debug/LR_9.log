@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\LR_9\LR_9\Header.h(100,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\LR_9\LR_9\Header.h(101,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\LR_9\LR_9\Header.h(110,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\LR_9\LR_9\Header.h(111,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\LR_9\LR_9\Header.h(145,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\source\repos\LR_9\LR_9\Header.h(162,21): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  LR_9.vcxproj -> C:\Users\Lenovo\source\repos\LR_9\Debug\LR_9.exe
